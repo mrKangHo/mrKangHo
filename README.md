@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&text=Empty&color=gradient&height=200&animation=fadeIn&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=wave&text=Kano&color=gradient&height=200&animation=fadeIn&fontAlignY=30)
 
 <div>
 
